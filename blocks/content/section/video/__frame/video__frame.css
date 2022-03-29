@@ -1,0 +1,10 @@
+.video__frame {
+    margin: 0 0 0 20px;
+    width: 515px;
+    height: 316px;
+    border: none;
+  }
+  
+  .video__frame:first-of-type {
+    margin: 0;
+  } 

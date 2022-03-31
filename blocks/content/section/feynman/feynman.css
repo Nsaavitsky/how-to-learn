@@ -5,5 +5,5 @@
     flex-direction: column;
     position: relative;
     background-color: #f2f2f2;
-    height: 890px;
+    min-height: 890px;
   }
